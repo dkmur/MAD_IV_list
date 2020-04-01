@@ -9,5 +9,5 @@ Sorting is done
 - Check IV list id end of line 1
 
 11-02-2020 Added audino and alomomola  
-26-03-2020 Added Solosis, Duosion, Reuniclus, Gothita, Duosion and Reuniclus
-01-04-2020 Added Stunfisk
+26-03-2020 Added Solosis, Duosion, Reuniclus, Gothita, Duosion and Reuniclus  
+01-04-2020 Added Stunfisk  
