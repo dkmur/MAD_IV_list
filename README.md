@@ -6,7 +6,11 @@ Sorting is done
 
 ## Preparation
 
-Copy the file `config.example` to `config` and open it in an editor. Replace the proper MADmin URL, username and password. Do not put any space charaters after the `=` sign.
+Copy the file `config.example` to `config` and open it in an editor and replace the proper MADmin URL, IV list ID, username, and password.
+
+To get the actual IV list ID, go to your MADmins IV settings page, click on the list's edit button and check your browser's address bar for the numeric value at the end of the URL.
+
+IMPORTANT: Do not add any spaces before or after the `=` characters in the config file.
 
 ## Usage
 
