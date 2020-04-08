@@ -1,0 +1,35 @@
+#!/bin/sh
+
+CONFIG=$(dirname ${0})/config
+
+while getopts ":hc:" opt; do
+  case $opt in
+    h)
+      echo "Usage: $0 [-c config] [ivlist]"
+      exit 0
+      ;;
+    c)
+      CONFIG=${OPTARG}
+      ;;
+  esac
+done
+shift $((OPTIND-1))
+
+if [ ! -f ${CONFIG} ]; then
+  echo "Config file ${CONFIG} doesn't exist."
+  exit 1
+fi
+
+source ${CONFIG}
+
+FILE=${1:-$(ls -1 ivlist_* | tail -n1)}
+
+curl -X PATCH \
+     -H 'X-Beautify: 1' \
+     -H 'Content-Type: application/json' \
+     -u "${USERNAME}:${PASSWORD}" \
+     -d @${FILE} \
+     ${MAD_URL}/api/monivlist/1
+
+curl -u "${USERNAME}:${PASSWORD}" \
+     ${MAD_URL}/reload
