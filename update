@@ -29,7 +29,7 @@ curl -X PATCH \
      -H 'Content-Type: application/json' \
      -u "${USERNAME}:${PASSWORD}" \
      -d @${FILE} \
-     ${MAD_URL}/api/monivlist/1
+     ${MAD_URL}/api/monivlist/${IV_LIST_ID}
 
 curl -u "${USERNAME}:${PASSWORD}" \
      ${MAD_URL}/reload
