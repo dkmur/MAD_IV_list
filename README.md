@@ -1,8 +1,8 @@
 # MAD_IV_list
 
-Sorting is done
-1 gamepress ranking
-2 generation desc
+Sorting is done  
+1 gamepress ranking  
+2 generation desc  
 
 ## Preparation
 
