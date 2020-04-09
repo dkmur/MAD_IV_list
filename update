@@ -20,7 +20,7 @@ if [ ! -f ${CONFIG} ]; then
   exit 1
 fi
 
-source ${CONFIG}
+. $(realpath ${CONFIG})
 
 FILE=${1:-$(ls -1 ivlist_* | tail -n1)}
 
