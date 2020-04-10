@@ -1,6 +1,6 @@
 # MAD_IV_list
 
-Sorting is done <br>
+Sorting is done by <br>
 1. gamepress ranking
 2. generation desc
 
