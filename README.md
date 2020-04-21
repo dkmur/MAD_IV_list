@@ -24,6 +24,7 @@ If you have multple instances, just create multiple config files and pass the na
 
 ## History
 
-11-02-2020 Added audino and alomomola  
-26-03-2020 Added Solosis, Duosion, Reuniclus, Gothita, Duosion and Reuniclus  
-01-04-2020 Added Stunfisk  
+11-02-2020 Added audino and alomomola <br>
+26-03-2020 Added Solosis, Duosion, Reuniclus, Gothita, Duosion and Reuniclus <br>
+01-04-2020 Added Stunfisk <br>
+21-04-2020 Added Woobat <br>
