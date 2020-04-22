@@ -28,3 +28,4 @@ If you have multple instances, just create multiple config files and pass the na
 26-03-2020 Added Solosis, Duosion, Reuniclus, Gothita, Duosion and Reuniclus <br>
 01-04-2020 Added Stunfisk <br>
 21-04-2020 Added Woobat <br>
+22-04-2020 Added Stunfisk <br>
