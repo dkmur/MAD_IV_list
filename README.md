@@ -29,3 +29,4 @@ If you have multple instances, just create multiple config files and pass the na
 01-04-2020 Added Stunfisk <br>
 21-04-2020 Added Woobat <br>
 22-04-2020 Added Stunfisk <br>
+06-05-2020 Added Scraggy and adapted order of mons <br>
