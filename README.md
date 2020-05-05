@@ -16,11 +16,11 @@ IMPORTANT: Do not add any spaces before or after the `=` characters in the confi
 
 Running `./update` will just upload the latest IV list to your MADmin.
 
-If you want to upload a specific older version of the IV list, just pass the name as parameter such as `./update ivlist_2020-03-26`.
+If you want to upload a specific older version of the IV list, just pass the name as parameter such as: <br> `./update ivlist_2020-03-26`.
 
 ## Support for multiple MAD instances
 
-If you have multple instances, just create multiple config files and pass the name of the config file like this: `./update -c config-instance1 ivlist_2020-03-26`.
+If you have multple instances, just create multiple config files and pass the name of the config file like this: <br> `./update -c config-instance1 ivlist_2020-03-26`.
 
 ## History
 
