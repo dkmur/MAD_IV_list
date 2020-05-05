@@ -6,7 +6,8 @@ Sorting is done by <br>
 
 ## Preparation
 
-Copy the file `config.example` to `config` and open it in an editor and replace the proper MADmin URL, IV list ID, username, and password.
+1. Install MAD_IV_list `git clone https://github.com/dkmur/MAD_IV_list.git'
+2. Copy the file `config.example` to `config` and open it in an editor and replace the proper MADmin URL, IV list ID, username, and password.
 
 To get the actual IV list ID, go to your MADmins IV settings page, click on the list's edit button and check your browser's address bar for the numeric value at the end of the URL.
 
