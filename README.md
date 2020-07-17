@@ -32,3 +32,4 @@ If you have multple instances, just create multiple config files and pass the na
 22-04-2020 Added Stunfisk <br>
 06-05-2020 Added Scraggy and adapted order of mons <br>
 03-07-2020 Added Ducklett <br>
+17-07-2020 Added Petilil <br>
