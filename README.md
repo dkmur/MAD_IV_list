@@ -33,4 +33,5 @@ If you have multple instances, just create multiple config files and pass the na
 06-05-2020 Added Scraggy and adapted order of mons <br>
 03-07-2020 Added Ducklett <br>
 17-07-2020 Added Petilil <br>
-07-08-2020 Added elgyem <br>
+07-08-2020 Added Elgyem <br>
+14-08-2020 Added Sewaddle, Cottonee, Emolga <br>
