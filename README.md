@@ -36,3 +36,4 @@ If you have multple instances, just create multiple config files and pass the na
 07-08-2020 Added Elgyem <br>
 14-08-2020 Added Sewaddle, Cottonee, Emolga <br>
 09-10-2020 Added Deerling <br>
+26-11-2020 Added generation 6 + remaining pokes other generation not in game/wild. Unsorted at the end of list
